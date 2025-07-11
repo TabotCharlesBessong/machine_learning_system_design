@@ -27,3 +27,4 @@ class SVM:
   def predict(self, X):
     approx = np.dot(X, self.w) + self.b
     return np.where(approx >= 0, 1, 0)
+
