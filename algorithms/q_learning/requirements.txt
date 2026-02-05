@@ -1,0 +1,11 @@
+# Q-Learning API and UI Requirements
+
+## Required packages for Flask API and Streamlit UI
+flask>=2.0.0
+flask-cors>=4.0.0
+streamlit>=1.28.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+requests>=2.25.0
+plotly>=5.0.0
+pandas>=1.3.0
